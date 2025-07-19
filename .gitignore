@@ -1,0 +1,35 @@
+# Node.js
+frontend/node_modules/
+frontend/.env
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pkl
+*.env
+*.log
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environments
+*.egg-info/
+.env/
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+
+# Build output
+dist/
+build/
+
+# Others
+*.swp
