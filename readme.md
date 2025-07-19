@@ -41,7 +41,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📸 Screenshots
 
 ### 1. Homepage
-![Homepage](https://github.com/mrAbhishek1105/placement-prediction/images/form.png)
+![Homepage]([https://github.com/mrAbhishek1105/placement-prediction/images/form.png](https://github.com/mrAbhishek1105/placement-prediction/blob/main/images/form.png))
 
 ### 2. Statics preview
-![statics](https://github.com/mrAbhishek1105/placement-prediction/images/statics.png)
+![statics]([https://github.com/mrAbhishek1105/placement-prediction/images/statics.png](https://github.com/mrAbhishek1105/placement-prediction/blob/main/images/statics.png))
